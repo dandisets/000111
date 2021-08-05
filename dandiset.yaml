@@ -12,7 +12,8 @@ citation: ZZZ (2021). (Version draft) [Data set]. DANDI archive. https://dandiar
 description: ZZZ
 id: DANDI:000111/draft
 identifier: DANDI:000111
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000111/versions/draft/assets/
 name: ZZZ
 schemaKey: Dandiset
 schemaVersion: 0.4.4
