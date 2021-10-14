@@ -17,6 +17,7 @@ identifier: DANDI:000111
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000111/versions/draft/assets/
 name: ZZZ
+repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 url: https://dandiarchive.org/dandiset/000111/draft
