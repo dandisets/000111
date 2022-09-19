@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000111
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.0/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -10,15 +11,23 @@ assetsSummary:
   numberOfFiles: 0
   schemaKey: AssetsSummary
 citation: ZZZ (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000111/draft
+contributor: []
 dateCreated: '2021-06-17T20:46:44.493130+00:00'
 description: ZZZ
+ethicsApproval: []
 id: DANDI:000111/draft
 identifier: DANDI:000111
+keywords: []
+license: []
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000111/versions/draft/assets/
 name: ZZZ
-repository: https://dandiarchive.org/
+protocol: []
+relatedResource: []
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000111/draft
 version: draft
+wasGeneratedBy: []
