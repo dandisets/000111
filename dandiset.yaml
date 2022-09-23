@@ -11,14 +11,20 @@ assetsSummary:
   numberOfFiles: 0
   schemaKey: AssetsSummary
 citation: ZZZ (2022). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000111/draft
-contributor: []
+contributor:
+- affiliation: []
+  includeInCitation: false
+  name: Lovelace, Augusta Ada
+  roleName: []
+  schemaKey: Person
 dateCreated: '2021-06-17T20:46:44.493130+00:00'
 description: ZZZ
 ethicsApproval: []
 id: DANDI:000111/draft
 identifier: DANDI:000111
 keywords: []
-license: []
+license:
+- spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000111/versions/draft/assets/
 name: ZZZ
